@@ -36,7 +36,8 @@ Through the course of this project, our team learned a whole new language in the
 Sleep, and then we’ve already discussed creating our own hardware for real-world testing around campus. This would be a camera microcomputer machine that we could mount in several parking lots. This would involve purchasing equipment, designing parts, and a lot more experimentation than what we have done so far.
 
 Made by:
+- Merrick (ML Engineer, API Integration, Back-end, Data Analytics)
 - Zahra (ML Engineer, Front-end, UI/UX)
 - Rylee (Front-end, UI/UX, Back-end)
 - Animesh (API Integration, Back-end, Data Analytics)
-- Merrick (API Integration, Back-end, Data Analytics, ML Engineer)
+
